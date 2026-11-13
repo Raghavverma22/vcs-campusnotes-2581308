@@ -1,1 +1,2 @@
 Unit 1: Introduction to Git
+Unit 2: Branching and Merging
