@@ -1,1 +1,2 @@
-# CampusNotes - CSE25303
+# CampusNotes
+Collaborative student notes manager.
